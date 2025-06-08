@@ -1,3 +1,1 @@
-# files-public
-files-public
-C:\Users\Administrator\AppData\LocalLow\GD Studio\Noobs Want To Live
+https://pixeldrain.com/u/ab9Upm9z - popcap

@@ -1,0 +1,10 @@
+---Ngan Van Phan Than
+-m: HaNhan
+  PhanThan:XichLong;
+-c: CG:HuTien->ChanTien->KimTien
+-e:ThanTroTienTong-HuyenKimThanThiet
+  TuyetNhi+suydien
+TamDongHuTien-nhanqua-HuTien->TienNhanThienKiep
+  ThanhThienMi:ThaiHuDanThap;
+  TocUngThanYeuNu:TieuLinh
+4:37:55

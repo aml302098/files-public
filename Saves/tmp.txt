@@ -1,0 +1,219 @@
+---
+Watchlist:
+  Name:Job|(Str+Int+Con+Agi+Men)|Talents:maxlvl|(G->B->P->R)(25lvl):
+    dmg+eff+heal|skilllearn+str+shield+healr/b+phys/holy/spell/fire/normalatk(dmg)|finaldmg|critchance|def  |skillCD       |lifeSteal|hitrate
+                |                                                               |        |          |     |              |         |0.5%
+    3.75%       |                                                               |1.5%    |
+    6.5%        |5%                                                             |2.5%    |1.5%      |1.6% |2%            |0.75%    |     
+    11.25%      |9%                                                             |        |          |2%   |              |         |       
+    eva  |De/BuffDur+time|ItemDrop|CritDmg|FinalDef
+         |
+         |
+         |12.5%          |1.5%    |10%
+    2.25%|22.5%          |        |18%    |1%
+Team:
+  LuBu:Warrior|(SS+D+A+S+C)|General+...(B+P+P+P)
+  (x)GuanYu:Warrior|(SS+B+S+B+B)|PolearmDmg+CritChance+FinalDmg+PhysDmg;PPPR|x-BigDmg
+  (x)Huatuo:Medic|(D+S+B+B+SS)|MedicineEff+InstrumentDmg+PharmacyEff+Heal;PPBR|x-Pharmacy4
+  (x)YunNiChang
+  NieXiaoqian:Medic|C+S+B+B+SS|OrbDmg(156.25%)+SummonTime(312.5%)+DarkDef(40%)+SummonStr(225%);PPPR|x-Summon
+
+  Old:
+  Adjust:
+    (x)StarSpeaker:Guard|A+A+SS+C+A|PhysDmg+FinalDmg+FireDmg+SkillCD;PPRR|x-Fire(Fighter)
+    (x)ToxVenn:Warrior|SS+C+B+B+A|SwordDmg+SkilLearn+SkillCD+Superpower|x-Superpower
+    RichardTheLionheart:Guard|A+B+S+D+S|SorceryEff(156.25%)+SpiritDef+Shield(225%);PPPR
+    Old:
+
+  Look for:
+    Adjustant:
+      (0)CaoCao:Warrior|S+A+SS+B+C|CrCh+PhysDmg+HolyDef+FireDmg;PPRR|0-Man4
+      NanGongWanWan(Doctor)
+      ZhouYu(Sorcerer)
+      (x)-SweepingMonk:Guard|A+S+A+D+S|FistDmg+Shield+FinalDef+SkillCD|x-decent
+    Oth:
+      (x)YanChixia:Forge4+ForgeEff3
+      (0)BaldwinIV:Mecha,B+A+S+C+A,PPPR;meh.
+      (x)XiaoChen:Warrior|SSS+B+B+A+B|PhysDmg+LifeSteal+CritDmg+Boxing;PPRR|x+LuBuReplace
+      (0)LeiZi:Warrior|SS+C+A+S+C|CrCh+SwordDmg+HitRate+LigDmg;PPRR|0-Study4+GuanYuReplace
+      (0)Shadowblade:Warrior|SS+C+B+S+B|CrDmg+DarkDmg+HitRate+HidWeaDmg;PPRR|0-Study4+GuanYuReplace
+      (x)MarisWaveChant(11):Wizard|D-SS-B-A-S|PPRR-Study4
+      (x)SylvaDuskWhisper(11):Archer|SS+B+B+SS+D|PPRR
+    Build:
+      YuXin+AlexLeyton+EisenHower+Toyotomi+LinYu+(MengJiang)+XuanYuanYi+GangLeaderXiao
+  Bst:
+    1-ZhugeLiang>GuanYu>HuaTuo>LuBu
+    2-ZhangSanfeng>SweepingMonk>Wuji>GangLeaderXiao|Study5-(x)-meh-meh
+    3-LinYue>QinYu>ChenLaoJiu>OldYe|meh,archer,PPPR-His4-mehstats-His4+HisEff3
+    4-RichardTheLionHeart>Saladin>BaldwinIV>Isabella|(x)-meh(PBPR)-mehstats-BBPP
+    5-YanChixia-NieXiaoqian-KongXueli-YingNing|Forge4-sum-(0)-Pharma4
+    6-UeugiKenShin-OdaNobunaga-TakadaSingan-HattoriHanzo|meh-meh-meh-meh
+    7-MacArthur-Manshin-Zhukov-Rommel|meh-Marksman,meh-Stra5-
+    8-YunNichang-LuoChenYu-LingZiyan-XiaoYiyan|-meh-Comm4,meh-meh
+    9-Shadowblade-StarSpeaker-NiraSol-ToxVenn|(0-Study4)-(x)-Forge5-(x)
+    10-LeiZi-XiaoChan-LingYianYue-ZhouLager
+  1-MjB:LiuBei:Medic|A+A+A+C+S|HealBonus+ItemDrop+...;PPPR
+    (x)HuangYueYing:Scholar|D+SS+B+B+S|InsDmg+SpellDmg+ResearchEff+GeneralEff;PPPR|x-Research4
+    ZhouYu:Scholar|C+SS+A+C+S|normalatkdmg+firedmg+CritDmg+DebuffDur;PPPR
+    (x)CaoCao:Warrior|S+A+SS+B+C|CritChance+Phys+HolyDef+FireDmg;PPRR|x-Manage4
+  3-MjB:MengJiang:Medic|D+S+B+A+S|PhysDef+BuildEff+...+...;PPPR|x-Build4,BuildEff=2
+    MengTian:Guard|S+B+SS+C+B|BoxingEff+...+...+spelldef;PPPR|Forge3
+    (x)YingZheng:Warrior|S+S+S+S+S|GeneEff+EarthDef+ItemDrop+Earth;PRPR|x-Man+His4
+  5-MjB:(x)SuSu:Archer|S+C+A+SS+D|CritDmg+LightningDef+PhysDmg+KungfuEff;PPPR|x-SSAgi,KungFu
+    (0)XiaoDie:Warrior|SS+C+B+S+C|HiddenWeaDmg+CrCh+NorAtkDmg+LigDmg;PPPR|0,>LuBu
+    QianQian:Scholar|A+S+B+C+A|+ForgeEff++;PPR|x,Forge4+ForEff2
+    (x)Granny:Medic|B+A+S+C+SS|LifSte+HolyDef+SumTime+SumEff;P
+    PRR|x-Animals4
+  6-(x)MjB:ShayingIuo:Guard|S+C+SS+B+B|EarDmg+SkiCD+Shield+FinalDef|x-Saint
+    Misanosuke:Warrior|SS+B+B+S+C|NinjutEff...;PPPR
+    Kazamatsuri:Warrior|S+C+S+S+D|PhysDmg+SprDef+FistDmg+NinjutEff;PPPR
+    (x)ChibaHashiRama:Guard|S+A+S+C+S|++PharmaEff+;PRPR|x-Pharma5
+  8-MjB:JiZiyue:
+    (0)NanGongWanWan:Medic|B+S+B+C+SS|SkillLearn+Healb+spelldef+Sorcery;PPPR
+    (x)LuXueqi:Scholar|A+SS+B+A+B|SpellDmg+HitRate+XiuZhenEff+WaterDef;PPRR|x-Study4+XiuZhenok
+    (x)LiMuChen:Archer|SS+B+B+S+D|SkillCD+CritDmg+HitRate+ArcheryEFF;PPPR|x-Archer(Marksman)
+
+Exp:
+  Time=RealTime;MjB:lv72=1%=100;lv82=1.15%=86.95;52s*100=5200;89s*86.95=7778.35
+  Exp: 8: lv81:1m22s,3.18m|lv82:1m19,3.44m|Secret,lv90:33s,3.96m
+  Efficiency:
+    Crusades:51-60lv:73.23k/s;9-10:1m56-107.18k/s+4.89k/s
+      61-70lv:1-8:7m52=161.84+5.21;
+      71-80lv:1-10:12m21=345.97+4.83
+      81-90lv:660.88+4.33
+  Sell: WeiWuHeavy:lv100:8.39m(Comm),128.9kStones,128.9kCopper;lv101:8.47m;lv105:134.76kStones|WeiWuBoots,Stones:lv89-116.01k;117.18k
+  Forge-Refine:Blue,2workeff=0.01g=10m
+    RunFull57x8:15.63g+10.45m
+    Refine:Immortal=Sitemdrop -> lost!
+  Build Migration:
+    Upgrade Industry lv4-5: Builder(+200,+250,+500): (950;900;650) = 12h58m57s -> (1450,650,1850) = 11h11m44s -> (1950,2350,1000) -> 12h34m10s
+    Forging(250,0,750): (2175,1300,3325) = 1488.5 -> (1450,650,1850) = 1399.9 -> (1850,2100,1250) = 1460.8 : Int scale
+            (0,0,0)|(100,0,0)|(0,100,0)|(0,0,100)
+    Forging:1253.1|1265.3|1253.1|1253.1
+    Pop|Flour|Int=:
+      Commerce: CustomerBonus|+Price|+Sellability
+      Science: x|Cost|Speed
+      Builder: -Cost|x|Speed
+      Forging: Ability|x|Output
+      Exhibition: TouristAttract|+Price|x
+      Medicine: Ability|x|Output
+      Zoo: Ability|Output|x
+      TrainingHall: Speed|Cost|x
+  Builder Lineup: MengJiang+YuXin|LinYu+AlexLeyton|EisenHower+ToyoTomi|GangLeaderXiao
+    Res: MiaLux+HuangYueYing|ChuXuan+VorianSeerborn|Akechi+FengSheng
+    
+
+Fights:9-25689|8-35679|7-12480;|6-46780|5-12390|3-13579
+  10-9:Exotic+Ore+MatkNec|
+
+1.Town:Heaven+YellowSky(Light,General;FurCap+LeatherArmor+Bracers+LeatherBoots+Outshine)|XingDaorong+ZhangJiao+DiaoChan+LuBu
+XuChang(Wei):Combat+Wood|Tigers+WeiWu(Heavy,Guard;Helmet+Heavy+Handguard+Combatboots+Bronzefinch)|
+ChengDu(Shu):Sorcery+Spirit(Medic)|Marquis+Arrays(Cloth,Sorcery;Clothcap+Longgown+Gloves+Clothshoes+Mystery;)|GuanYu+HuaTuo+ZhugeLiang
+JianYe(Wu):Archery+Water|RiverFur+Tiger(Light,Phys;l=YellowSky+Break)|LittleJoe+SunShangXiang)
+RedCliff(Major):Phoenix(Heavy);Vermillion(Light);ZhuRong(Cloth)
+Fights:1-ZJ:So+St+Es+Ar+Me|3-LuBu:So+Of+Es+Th+Me|4-ZhenFu:Ba+St+Ge+Ar+Be|5-LJ:So+St+Es+Th+Be|6-HT:Ba+Of+Ge+Ar+Me|7-GY:So+St+Ge+Ar+Be|8|9-WI:Ba+St+Ge+Th+Me|10-ZL:So+Of+Es+Ar+Be
+MjB:Ball+Runeword|Staff+Tool|Glove+Dagger|Cannon+Shield|So+Ar+St+Me+Es|
+  lv4:lv76;0:611.22->611.92;I:204.97->205.7(I);H:205.75->206.5;52s|
+  lv5:lv86;221.29->221.41;1m38
+2.Town:Beggars+Kungfu+Fire|Beat+Subdue(Beggars,Light,Fire,Phys)|MadamMa+Rong'er+GangLeaderXiao|Warrior+Guard+Medic
+Shaoshi:Combat+Earth(Guard+ReduceDmg)|Figure+Bodhi(Shaolin,Heavy)
+Huashan:KungFu+Lightning|Sect+Avert(Light)|YoungMaster+JuniorSister
+Wudang:Sorcery+Water(ATKdrop)|True+Taiji(Wudang,Cloth)|MissLong+ZhangSanfeng+Wuji
+3-SwM:Qin-K
+3.Town:Spell+Lightning|Gold+Gold(Mojin)|QinYu+LingXue+SuYaoYao|Archar+Guard+Scholar
+Hangzhou:General+Earth|Mountain+Mountain(Heavy)|WuGang+OldYe|Guard
+MjB:TrR+TrG+ToP+MoF
+  OrW:Mutual(Gloves)|DVG(Dagger,initE+2)|OL(Pike,Genlv+5)|VD-S(Shield,Con+5)|Book+Runeword(Build)|Sword(BoxingLv+5)|Qin(crit+5%)
+4.Town:(Saint+Sorcerer)|Believer+Pope(Light,Archery)
+Const:Sorcery+Holy|||Saint
+Dama:Magic+Fire|||Sorcerer
+|
+Hunting
+5.Town:Boxing+Earth(Swordman+Psychopath)|Sword+Sword(Heavy,Earth)
+Yourning(Ghost):Summons+Dark|Channel+Channel(Light,Summon||Psychopath
+Tushan(Spirit):Sorcery+Spirit|Spirit+Fox(Cloth+Spirit)||Medic
+MjB:Dart+Sight+|Sword+Dagger|Book+Tool|Ball+Runeword
+6.Town:KungFu+Lightning(Samurai+Gunner)|General+Emperor(Light,crit)|Samurai+Gunner
+Osaka(Oda):Mecha+Fire|War+Demon(Heavy,normalatk+fire,Demon)|Gunner
+Edo(Tokugawa):Genin+Jonin(Cloth,debuff+dark,Jonin)
+MjB:Book+Runeword|Pike+Dagger|Tool+Tool|Sword+Shield
+9-SaY:SaW+EcS+FoS+BoI+BaI   
+7.Town:Medicine+Spirit(Ranger+Doctor)|Allied+Civilization(Cloth,Heal)|
+Mosc(Soviet):Combat+Earth(Superpower)|People+Defend(Heavy,hit+evasion)|
+Berlin(Germany):Marksmanship+Water|Wolves+Empire(Marksman,Light)||Ranger
+8-Pat:Rus+RiS+GuS+SnS+MoS
+8.QingYun:Xiuzhen+Lightning|Cloud+Thunder(Lighting,Light)||Taoist+Superpower
+Xuantian:Superpower+Wood|||Superpower
+Xueyu:Spell+Water|Scholar
+MjB:
+9.Town:Mecha+Lightning|Mutant+Marksman
+Lusan(Cosmic):SuperPower+Fire|Skywalk+Lightblade(Cloth,Superpower)
+Mortis(Viss):Marksmanship+Dark(Anti-Heal)|StarLight+Freedom(Marksman,Light)
+Fights:1-ALe:DSG+LSS+GW+BW+FS
+10.Town:Medicine+Water||TSDDoctor+Fighter
+Huadu(Karma):XiuZhen+Wood|||XiuZhen
+MingYing:Boxing+Fire|||Fighter
+1-:2-YaM:PuT+SkD+BME+PFD+BuD|9-LX:PuT+PSD+BME+PFD+BrD|10-LZ:StD+SD+SCE+FD+BD
+11.Town:Magic+Fire+Water(Magic)|||Paladin+Wizard+Druid
+Concrest:Sorcery+Holy(Saint)
+GrimScar:Summons+Dark
+---
+m:LamThanhDa
+c:PhuvanThanhTong-LieuVanYen;TieuPham
+---
+m:QuanBacHai;
+TieuPhamYen;LucThanhTuyet;HoacTamNhi;Nguyet+TinhNhi(NamCungLienTinh)
+c:ThaiAmThanhDia:BachNhuocVi;ToLienY+HanThanhDao;TanDieuKhanh-thanhnu,sutonNamCungThienTuyet;HoacTamNhi-sutonVanThanhTuyet
+CuuLinhThanhDia:NguDieuNhu;DongPhuongVanHien-sumuoiAnYNhien;
+LangDuongThanhDia:
+e:BachNhuocVi;NguDieuNhu-CuuLinhThanhDia
+QuangHanCung:NgocQue
+PhongBatMien+ToNgocLong;NamCungLienTinh;HuyetLinhCoGiao
+VanQuyMon:BachMong-DongPhuongMongBach-VanQuyDuong;DongPhuongVoTich><TieuDieuTong:TruongKhongTiet,TruongVoHam,HuyetVuongCo
+    NamCungThienTuyet-ThaiAm
+---
+m:GiangTriet
+c:TuTieuKiemTong
+DaiChu:hoangdeCoLongThanh;6congchuaCoHi+TieuVan
+    ThaiHoangKinh;7HT;
+ThienDieuMon;QuyHacMon
+e:BacNguyetThanh;ThienCoLaoNhan-laokhatcai;congchuaDaiChu+TieuVan
+    QuyHacMon(x);
+CoLongThanh+TranLam+TanKhieu;HoaRong
+---
+m: TranThuc
+    ThienMonNguDao;ThienDiaNhatKiemTram-LuongNghi
+c:
+    CG: NganCot->KimCot
+        TamSinhMon->TuTuMon
+        CuuCanh->NhatCanh
+    DaiNguy:TranVuDaiDe-ThanVuDeQuoc-TranVuMo;TanVuong
+    TongGia,LuongChau:phunhanLamManThanh,nhahoanMacHuong,VanPhu;VanHaCu
+        TongThuaCan;TongThuaSon;TongPham-meLamThuThuy,linhtoc;TongThuaMenh;laotoTongThanY;truongnuTongThanhTuyet;
+            TongThanhVi><truongtuTongThuaMenh-bibothuoc
+        TuHuuCan;LyGia:LyPhao+LyVoY;
+        KhachKhanh:LuongNghi-kiemtu;LyDien-anmay+LuongNghi
+    HopHoanTong,DuongChau,cachLuongChau10kdam
+    XK: TanVuong-thetuGiangTam;tinhbao;nutu;
+    LinhKiemTong:LamTinhY;TranVuMon
+e:
+    7. CoNgocTruyenTongPhu
+    9. TongPham-vungdatnguyenrua-gietchet m 
+    NgoThon:DongSachVoDanh,trungnienthanbi;ThienMonNguDao
+        Vungdatnguyenrua:KimCot-NguDaoKhoatMon,KhoatCuc->ThanMon->Thegioikhac
+        LamThuThuy-VanNguyetLau
+        LinhToc
+    LamManThanh;ThaiToCaoHoangDe
+        LamManThanhcovande-chocdanTongThuaMenh
+        matthat-HoangThatxuyenvietgia-LuongNghi;aoden+dangamden
+        ->chonkhoiThienCapLinhTuyen vaoThapPhuongGioi
+    Lamgionglan7;TongThanYxlaoVuong
+
+---
+m: HuaNguyen-3CTTeTuong
+c:
+e: nutuaoden-NhiemThanhMac><TonDaiPhat-TamCongTu
+---
+m:ToMatAn
+g:nc:SoKhuynhTien+LieuNhuYen+chaSoNguyenHanh+LyMacTa|BachThuHoa-TranCamTong|TuVanNgung+LacTuVi|BachLinhNhi+BachNguyetLien|MiTienNhan-CuuUMaNu
+ThuongQuanQuyYen;
